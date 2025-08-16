@@ -1,1 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>РумТибет</title>
+    <link rel="stylesheet" href="/ff.css">
+</head>
+<body>
+   <header>
+    <div class="content poi">
+        <img src="/img/Group 19 2.png" alt="logo" class="logo">
 
+
+        <nav class="nav-list">
+             <a href="#Главная">Главная</a>
+             <a href="#Про гида">Про гида</a>
+             <a href="#Программа тура">Программа тура</a>
+             <a href="#Стоимость">Стоимость</a>
+             <a href="#Блог">Блог</a>
+             <a href="#Контакты">Контакты</a>
+             
+        </nav>
+        <button class="l">Консультация</button>
+       
+    </div>
+           <div class="wer">
+             <h2 class="po">  Насладись прогулкой в горах<br>
+с командой единомышленников</h2>
+<img src="/img/Group 20.png" alt=" pol" class="gop">
+           </div>
+   </header>
+<div class="mob"> 
+   <div class="img">
+    <img src="/img/77c130b2fdf3f394b178d6bba7e11865e90f42cf.jpg" alt="jj" class="big">
+    <img src="/img/de09e3d52fa30a6bf03680f843abefca32fb3e79.jpg" alt="oo" class="small">
+   </div>
+
+
+<div class="it">
+   <div class="tecst">
+      <p class="kel">о нашем походе</p>
+      <h2 class="qoi">Исследуйте все горные массивы мира вместе с нами</h2>
+      <p class="glava">Его корни уходят в один фрагмент классической латыни 45 года<br> н.э., то есть более двух тысячелетий назад. Ричард МакКлинток, <br>профессор латыни из колледжа Hampden-Sydney, штат<br> Вирджиния, взял одно из самых странных слов в Lorem Ipsum,<br> "consectetur"и занялся его поисками в классической латинской <br>  литературе.</p>
+      <button class="val">Програма труда</button>
+   </div>
+</div>
+
+    
+
+
+
+
+
+</div>
+</body>
+</html>
